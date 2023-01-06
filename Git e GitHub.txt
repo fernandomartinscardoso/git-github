@@ -1,0 +1,24 @@
+Git e GitHub são coisas diferentes.
+Git é um software de controle de versão (VCS), já o GitHub é uma plataforma de rede social para programadores.
+
+Git
+
+Git é uma plataforma de versionamento de código. Para o programador, versionamento é um conceito importante porque ele está sempre lidando com muitas versões de uma mesma coisa.
+Para se salvar uma versão de uma pasta de trabalho local para um reporitório central, é necessário comissionar essa pasta, ou seja, fazer um "commit".
+O primeiro VCS que surgiu era do tipo centralizado ou linear, o que significa ter o comissionamento feito por computadores conectados fisicamente ao servidor do reporitório.
+Esse modelo evoluiu para uma forma de VCS do tipo distribuído, ou seja, em que o comissionamento é feito em repositórios locais instalados nos computadores dos desenvolvedores. Para unificar o projeto, os repositórios locais enviam para um repositório remoto, numa operação denominada "push".
+Principais VCS's do tipo centralizado: Concurrent Version System (CVS) e Apache Subversion (SVN).  
+Principais VCS's do tipo distribuído: BitKeeper e Git.
+Principais vantagens dos VCS's:
+	- Controle de histórico;
+	- Trabalho em equipe;
+	- Ramificação do projeto;
+	- Segurança;
+	- Organização.
+
+GitHub
+
+Enquanto o Git é o sistema para versionar os arquivos, salvá-los e enviá-los remotamente, o próprio repositório remoto é o GitHub, que também funciona como plataforma de exposição do trabalho e comunidade para troca de informações.
+O GitHub disponibiliza repositórios ilimitados, hospedagem de código-fonte, apresenta características de rede social, GitHub Pages integrado (que dá pra hospedar sites com recursos básicos gratuitamente), tem recurso de colaboração para projetos compartilhados e os forks para criar derivação de projeto.
+Opções concorrentes do GitHub: GitLab, Bitbucket, PHABRICATOR, Gogs, kallithea, entre outros.
+Para se usar o Git com interface gráfica integrada à conta do GitHub, pode-se usar o GitHub Desktop (desktop.github.com).
